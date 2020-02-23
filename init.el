@@ -181,7 +181,16 @@
 ;;   :ensure
 ;;   )
 
+;;Compile
 (setq compile-command "call \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/Tools/VsDevCmd.bat\" & devenv  ")
+
+;;DEBUGING
+(setq
+ ;;use many debugwindow by default
+ gdb-many-windows t
+ ;;non nil mean display source file contain main routine at start up
+ gdb-show-main t
+ )
 
 
 ;; Turn off menubar, toolbar, scollbar
