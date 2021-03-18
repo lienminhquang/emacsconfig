@@ -1,0 +1,1 @@
+("~/.emacs.d/" "c:/A9/win/view_dev/libs/common/GLOTv3/" "e:/A9/android/view_dev/" "e:/A9/JenkinsPipeline/" "e:/A9/android/view_dev/libs/catalyst/" "e:/A9/JenkinsPipeline_TestRefactorCode/" "e:/A9/view_dev/libs/common/JPal/src/platform/ios/Input/" "e:/A9/view_dev/libs/common/" "c:/A9/win/view_dev/libs/catalyst/" "c:/A9/win/view_dev/" "e:/A9/view_dev/")
